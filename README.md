@@ -5,10 +5,10 @@ Prayog is cross platform software to perform science practical/experiments virtu
 ## Download for windows
 
 
-Extract the .rar file from [here](https://akshaysharmadev.itch.io/prayog).
+Download the .rar file from [here] and then extract it.(https://akshaysharmadev.itch.io/prayog).
 
 ```bash
-then just run the application in the build folder
+then open the build folder & run the application!
 ```
 
 ## Screenshots
