@@ -2,6 +2,8 @@
 
 Prayog is cross platform software to perform science practical/experiments virtually by speaking, made for bitbox hackathon 2021.
 
+# This project won the DSCJIIT128 BITBOX 2021 Hackathon!
+ 
 ## Download for windows
 
 
